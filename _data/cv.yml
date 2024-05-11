@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Alexander Chudasama
     - name: Date of Birth
-      value: 14th March 1879
+      value: 14th April 2001
     - name: Languages
-      value: English, German
+      value: English
 
 - title: Education
   type: time_table
