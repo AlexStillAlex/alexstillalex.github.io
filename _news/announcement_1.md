@@ -9,7 +9,7 @@ related_posts: false
 Sunday 19 May 2024
 
 2pm-5.30pm
-
+ 
 **Bruch: Romanze Op.85 for Viola and Orchestra with Celeste Chen Cooper.**
 
 **Brahms Serenade No.1 Op.11**
