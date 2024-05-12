@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BBC Ariel Orchestra: 19th May"
-date: 2024-05-2 00:32:13
+date: 2024-05-10 00:32:13
 description: Turns out all you need to do is ask.
 tags: Concerts Music 
 categories: music
