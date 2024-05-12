@@ -7,7 +7,7 @@ subtitle: <a href='#'>Naked Band</a>.
 profile:
   align: right
   image: me_cello.jpeg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Me in Situ</p>
     <p></p>
@@ -20,7 +20,13 @@ social: true # includes social icons at the bottom of the page
 
 Have you heard of VisualPDE?
 TODO: VISUALPDE
-<iframe title="VisualPDE simulation" style="border:0;width:60%;height:800;" src="https://visualpde.com/sim/?options=N4IgRgqiBcICYEsBOCDGALANgUwC4gBpwA1GeZNLPQ8JMgVgDp6awA3MgJQEEA5AERqpB0XEgCu2InAhRYARhozSsALSoAVOID0ACnkBqcQD0ATAEolxFSEXSA6vbIAGJWV0eAHqvkAWZ+baABwBZgAEBmEeAJ4+-oEh5uGqYfJJAMxhKV5xAcGhphoxuQmhmQA8Ya7SAM5kpiFKHKISUvD40M6Mzs70RKhyIF09diAA1mSoALy+ANwAhlNd8rM0ALbz9czrCC7dPb5BpvK9zgCcAOzO6b5nvgBsowAOZADC4jW4APZrNEiD4iK8lU4ksRCQNnEqnmGg44KcsGqIBqAEcYGJJEQauJ0a0iAB3OBkHEEl6wEnIhBrAAqCFwODIAGlsJgcEhAMgEAGVsABzFlhBAAOzC8zC6Gw8yQ+AAvkA&logo_only" frameborder="0"></iframe>
+I would like to call myself a mathematician but I don't think thats a title I'm ready for just yet. In the meantime I'll go by enthusiastic bystander who likes pattern formation in dynamical systems and isn't afraid to throw computers at a problem when the going gets tough.
+I would like to call myself a mathematician but I don't think thats a title I'm ready for just yet. In the meantime I'll go by enthusiastic bystander who likes pattern formation in dynamical systems and isn't afraid to throw computers at a problem when the going gets tough.
+I would like to call myself a mathematician but I don't think thats a title I'm ready for just yet. In the meantime I'll go by enthusiastic bystander who likes pattern formation in dynamical systems and isn't afraid to throw computers at a problem when the going gets tough.
+I would like to call myself a mathematician but I don't think thats a title I'm ready for just yet. In the meantime I'll go by enthusiastic bystander who likes pattern formation in dynamical systems and isn't afraid to throw computers at a problem when the going gets tough.
+I would like to call myself a mathematician but I don't think thats a title I'm ready for just yet. In the meantime I'll go by enthusiastic bystander who likes pattern formation in dynamical systems and isn't afraid to throw computers at a problem when the going gets tough.
+I would like to call myself a mathematician but I don't think thats a title I'm ready for just yet. In the meantime I'll go by enthusiastic bystander who likes pattern formation in dynamical systems and isn't afraid to throw computers at a problem when the going gets tough.
+<iframe title="VisualPDE simulation" style="border:0;width:100%;height:800;" src="https://visualpde.com/sim/?options=N4IgRgqiBcICYEsBOCDGALANgUwC4gBpwA1GeZNLPQ8JMgVgDp6awA3MgJQEEA5AERqpB0XEgCu2InAhRYARhozSsALSoAVOID0ACnkBqcQD0ATAEolxFSEXSA6vbIAGJWV0eAHqvkAWZ+baABwBZgAEBmEeAJ4+-oEh5uGqYfJJAMxhKV5xAcGhphoxuQmhmQA8Ya7SAM5kpiFKHKISUvD40M6Mzs70RKhyIF09diAA1mSoALy+ANwAhlNd8rM0ALbz9czrCC7dPb5BpvK9zgCcAOzO6b5nvgBsowAOZADC4jW4APZrNEiD4iK8lU4ksRCQNnEqnmGg44KcsGqIBqAEcYGJJEQauJ0a0iAB3OBkHEEl6wEnIhBrAAqCFwODIAGlsJgcEhAMgEAGVsABzFlhBAAOzC8zC6Gw8yQ+AAvkA&logo_only" frameborder="0"></iframe>
 
 I would like to call myself a mathematician but I don't think thats a title I'm ready for just yet. In the meantime I'll go by enthusiastic bystander who likes pattern formation in dynamical systems and isn't afraid to throw computers at a problem when the going gets tough.
 
