@@ -8,12 +8,6 @@ category: posters
 related_publications: true
 ---
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 
 <div class="row">
@@ -22,6 +16,6 @@ related_publications: true
     </div>
 </div>
 <div class="caption">
-    I think it started here
+    You can count the number of jokes.
 </div>
 

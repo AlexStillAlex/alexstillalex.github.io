@@ -8,13 +8,7 @@ category: posters
 related_publications: true
 ---
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
+TODO
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -22,6 +16,6 @@ related_publications: true
     </div>
 </div>
 <div class="caption">
-    I think it started here
+
 </div>
 
