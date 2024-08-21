@@ -5,7 +5,7 @@ description: This is when I discovered I had free University printing.
 img: assets/img/PancakePreview.png
 importance: 5
 category: posters
-related_publications: true
+related_publications: false
 ---
 
 
@@ -18,4 +18,3 @@ related_publications: true
 <div class="caption">
     I think it started here
 </div>
-
