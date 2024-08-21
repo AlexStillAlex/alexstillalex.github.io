@@ -8,8 +8,7 @@ category: posters
 related_publications: true
 ---
 
-TODO
-
+I want it that way!
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
             <embed src="/assets/pdf/posters/BackStreetBoys.pdf" type="application/pdf" width="100%" height="600px" />

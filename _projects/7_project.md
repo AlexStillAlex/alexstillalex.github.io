@@ -16,6 +16,6 @@ related_publications: true
     </div>
 </div>
 <div class="caption">
-    I think it started here
+    When it was discovered my lecturer ran a square lap around his garden for 5K, I thought this would be an appropriate piss take.
 </div>
 

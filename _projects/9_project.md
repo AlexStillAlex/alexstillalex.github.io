@@ -16,6 +16,6 @@ related_publications: true
     </div>
 </div>
 <div class="caption">
-    I think it started here
+    As the popularity of VisualPDE grew in the maths department, this was a necessary addition.
 </div>
 

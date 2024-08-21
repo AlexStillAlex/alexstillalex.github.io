@@ -22,6 +22,6 @@ related_publications: true
     </div>
 </div>
 <div class="caption">
-    I think it started here
+    What it says on the tin.
 </div>
 

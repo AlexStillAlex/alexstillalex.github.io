@@ -16,6 +16,6 @@ related_publications: true
     </div>
 </div>
 <div class="caption">
-    I think it started here
+    A throwback to my secondary school days where students would send recipes on the mail-all users list.
 </div>
 
