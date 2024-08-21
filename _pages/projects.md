@@ -5,7 +5,7 @@ permalink: /projects/
 description: I've been told some people find this funny. Maybe **you** will find it interesting
 nav: true
 nav_order: 3
-display_categories: [posters]
+display_categories: [posters, papers]
 horizontal: false
 --- 
 <!-- pages/projects.md -->
