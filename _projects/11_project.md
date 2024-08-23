@@ -5,7 +5,7 @@ description: At least it started that way.
 img: assets/img/ArcheologyPreview.png
 importance: 10
 category: posters
-related_publications: true
+related_publications: false
 ---
 
 The inspiration behind this was for a friend in the Archeology department. After discovering it is a fairly intimate place, I wrote this drivel instead. I must have been watching a zero punctuation video at the time because it appears to be shamelessly stolen from there.

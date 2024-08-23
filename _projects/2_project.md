@@ -5,7 +5,7 @@ description: The backstreet boys make a comeback.
 img: assets/img/BSBPreview.png
 importance: 2
 category: posters
-related_publications: true
+related_publications: false
 ---
 
 I want it that way!

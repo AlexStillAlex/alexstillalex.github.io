@@ -5,7 +5,7 @@ description: No, that's not a typo.
 img: assets/img/VPDEPreview.png
 importance: 8
 category: posters
-related_publications: true
+related_publications: false
 ---
 
 

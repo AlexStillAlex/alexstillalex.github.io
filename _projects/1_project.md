@@ -5,7 +5,7 @@ description: This is when I discovered I had free University printing.
 img: assets/img/OriginalPreview.png
 importance: 1
 category: posters
-related_publications: true
+related_publications: false
 ---
 
 

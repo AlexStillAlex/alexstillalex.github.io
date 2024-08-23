@@ -5,7 +5,7 @@ description: This was designed to be a piss take.
 img: assets/img/NavierPreview.png
 importance: 6
 category: posters
-related_publications: true
+related_publications: false
 ---
 
 

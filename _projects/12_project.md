@@ -4,7 +4,7 @@ title: Dissertation
 description: My dissertation.
 img: assets/img/DissPreview.png
 importance: 1
-category: Papers
+category: papers
 related_publications: false
 ---
 Reading through a second time, I realise this is riddled with mistakes. Nonetheless, the content should be easy to grasp. I'd say some knowledge of Group theory and any introductory Math Bio course will put you in good stead. Even if you're a non-mathematician, there are plenty of pretty pictures to entertain.

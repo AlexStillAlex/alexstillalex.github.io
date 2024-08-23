@@ -5,7 +5,7 @@ description: High effort.
 img: assets/img/TahiniPreview.png
 importance: 9
 category: posters
-related_publications: true
+related_publications: false
 ---
 
 

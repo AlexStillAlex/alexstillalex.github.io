@@ -5,7 +5,7 @@ description: Possibly the best thing I've done.
 img: assets/img/PeriodicPreview.png
 importance: 4
 category: posters
-related_publications: true
+related_publications: false
 ---
 
 
@@ -16,6 +16,6 @@ related_publications: true
     </div>
 </div>
 <div class="caption">
-    I think it started here
+    An ADHD fueld evening. 128 jokes on the page. See if you can spot them all.
 </div>
 

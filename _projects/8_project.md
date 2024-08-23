@@ -5,7 +5,7 @@ description: Likely the second best thing I've done. XKCDify your graphs people.
 img: assets/img/XKCDPreview.png
 importance: 7
 category: posters
-related_publications: true
+related_publications: false
 ---
 
 
@@ -16,6 +16,6 @@ related_publications: true
     </div>
 </div>
 <div class="caption">
-    I think it started here
+    I discovered the XKCD plotting library and knew I had to make a poster. I think this was made post-uni. Old habits die hard.
 </div>
 
