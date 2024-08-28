@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dissertation
-description: My dissertation.
+description: Numerical Continuation of Reaction Diffusion Systems!
 img: assets/img/DissPreview.png
 importance: 1
 category: papers
