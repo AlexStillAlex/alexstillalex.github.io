@@ -7,6 +7,7 @@ tags: Concerts Music
 categories: music
 thumbnail: https://tonphil.org.uk/wp-content/uploads/2024/04/May-2024-Concert-poster.jpg
 tabs: true
+featured: true
 ---
 
 Hot Crossed Buns, the Shire and Jaws all in one.

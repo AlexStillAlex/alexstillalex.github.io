@@ -7,6 +7,7 @@ tags: Concerts Music Opera
 categories: music
 thumbnail: /assets/img/magicflute.jpeg
 tabs: true
+featured: true
 ---
 The audition process was shockingly easy. I only needed to ask! Two performances of Mozart's 'Magic Flute' served right up with a good pub trip after.
 ---

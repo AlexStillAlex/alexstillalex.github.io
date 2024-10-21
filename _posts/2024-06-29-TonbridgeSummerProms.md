@@ -7,6 +7,7 @@ tags: Concerts Music
 categories: music
 thumbnail: https://tonphil.org.uk/wp-content/uploads/2024/05/TPS-Summer-Prom-2024.jpg
 tabs: true
+featured: true
 ---
 
 This will be my last concert with them for a while! Getting to play 1812 and Jupiter though? Brilliant.
