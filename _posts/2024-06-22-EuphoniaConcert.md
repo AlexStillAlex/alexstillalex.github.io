@@ -5,6 +5,7 @@ date: 2024-05-11 00:32:13
 description: Hangover Cure?
 tags: Concerts Music 
 categories: music
+thumbnail: /assets/img/LEOJUNE2024.png
 tabs: true
 ---
 

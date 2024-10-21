@@ -5,6 +5,7 @@ date: 2024-06-29 00:32:13
 description: A collection of crowd pleasers
 tags: Concerts Music 
 categories: music
+thumbnail: https://tonphil.org.uk/wp-content/uploads/2024/05/TPS-Summer-Prom-2024.jpg
 tabs: true
 ---
 
