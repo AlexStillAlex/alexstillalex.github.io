@@ -7,8 +7,9 @@ tags: Concerts Music Shosty
 categories: music
 tabs: true
 thumbnail: /assets/img/BRENTNOV2024.png
+featured: true
 ---
-The audition process was shockingly easy. I only needed to ask! Two performances of Mozart's 'Magic Flute' served right up with a good pub trip after.
+SHOSTY SHOSTY SHOSTY
 ---
 <img src="/assets/img/BRENTNOV2024.png" style="width: 100%;">
 
