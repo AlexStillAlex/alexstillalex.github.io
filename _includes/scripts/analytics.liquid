@@ -1,15 +1,14 @@
-{% if site.enable_google_analytics %}
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() {
-      window.dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
-    gtag('config', '{{ site.google_analytics }}');
-  </script>
-{% endif %}
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3WYTN2KDSR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-3WYTN2KDSR');
+</script>
+
 {% if site.enable_cronitor_analytics %}
   <!-- Cronitor RUM -->
   <script async src="https://rum.cronitor.io/script.js"></script>
