@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Brent SO: November 4th"
+title: "Brent SO: November 11th"
 date: 2024-09-04 00:00:01
 description: ✨ Shosty ✨ 
 tags: Concerts Music Shosty

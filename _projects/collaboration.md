@@ -1,7 +1,7 @@
 ---
 layout: page
 title: A Joint Venture
-description: This is when I discovered I had free University printing.
+description: Sharing the print love.
 img: assets/img/PancakePreview.png
 importance: 5
 category: posters
@@ -16,5 +16,5 @@ related_publications: false
     </div>
 </div>
 <div class="caption">
-    I think it started here
+    Two mathematicians and a physicist. Were there too many cooks?
 </div>
