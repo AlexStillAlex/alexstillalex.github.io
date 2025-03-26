@@ -58,8 +58,6 @@ _styles: >
 
 This post, and likely the next couple, is a rewrite of some notes I wrote back in the summer of my first-year undergrad. The Pandemic had just began and I thought it'd be an opportunity to learn $\Latex$. Back then my school friends were still up-to-date with eachothers lives so something like this was a novelty. Nonetheless, looking back I can conclude my writing style was lacking at best. This will be an attempt to push it to mediocre.
 
-
-
 This theme supports rendering beautiful math in inline and display modes using [MathJax 3](https://www.mathjax.org/) engine.
 You just need to surround your math expression with `$$`, like `$$ E = mc^2 $$`.
 If you leave it inside a paragraph, it will produce an inline expression, just like $$ E = mc^2 $$.
