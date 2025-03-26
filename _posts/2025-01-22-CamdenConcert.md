@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Camden Philharmonic April 5 2025"
-date: 2025-22-01 00:00:01
+date: 2025-01-23 00:00:01
 description: A Russian Winter
 tags: Concerts Music Camden Rachmaninoff Tchaikovsky Sibelius
 categories: music
