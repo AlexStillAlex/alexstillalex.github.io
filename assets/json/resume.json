@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Alex Chudasama",
     "label": "Scientist",
     "image": "",
     "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
+    "phone": "07454008197",
     "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "Mathematician with interests in biological dynamical systems. I have equal enthusiasm for the pub and playing the cello.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "NW1 0HB",
+      "city": "London",
+      "countryCode": "UK",
+      "region": "London"
     },
     "profiles": [
       {

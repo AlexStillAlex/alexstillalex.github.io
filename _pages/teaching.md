@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: teaching
 description: A collection of problem sheets I've written for various courses and in some cases, my notes.
-nav: true
+nav: false
 nav_order: 4
 ---
 
