@@ -6,7 +6,7 @@ description: A Russian Winter
 tags: Concerts Music Camden Rachmaninoff Tchaikovsky Sibelius
 categories: music
 tabs: true
-# thumbnail: /assets/img/BRENTNOV2024.png
+thumbnail: /assets/img/camdenapril2025.jpg
 featured: true
 ---
 The cello section were so into this that they wrote the bowings BEFORE the concert.
