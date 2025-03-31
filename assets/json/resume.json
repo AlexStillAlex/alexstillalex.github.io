@@ -3,7 +3,7 @@
     "name": "Alex Chudasama",
     "label": "Mathematician",
     "image": "",
-    "email": "albert@einstein.de",
+    "email": "maths@alexchudasama.com",
     "phone": "07454008197",
     "url": "https://github.com/AlexStillAlex",
     "summary": "Mathematician with interests in biological dynamical systems. I have equal enthusiasm for the pub and playing the cello.",
@@ -28,9 +28,8 @@
       "position": "Data Engineer",
       "url": "https://example.com",
       "startDate": "2024-10-01",
-      "endDate": "Current",
       "summary": "Data Engineer at NEST, responsible for setting up the NEST Data Platform, relying on a Python/SQL/Spark tech stack. This catered for 14 million members of the UK population and £44 billion in assets.",
-      "highlights": ["Data", "Engineering", "Python"]
+      "highlights": ["Data", "SQL", "Python"]
     }
   ],
   "music": [
