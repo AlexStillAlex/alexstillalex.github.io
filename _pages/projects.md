@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: I've been told some people find this funny. Maybe **you** will find it interesting
+description: I've been told some people find this funny. Maybe you will find it interesting
 nav: true
 nav_order: 3
 display_categories: [papers,posters]
