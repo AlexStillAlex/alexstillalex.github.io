@@ -11,6 +11,5 @@ featured: false
 ---
 The Mikado
 ---
-# <img src="/assets/img/BRENTNOV2024.png" style="width: 100%;">
+<!-- # <img src="/assets/img/BRENTNOV2024.png" style="width: 100%;"> -->
 
-Todo
