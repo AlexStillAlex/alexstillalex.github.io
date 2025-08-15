@@ -6,7 +6,7 @@
     "email": "maths@alexchudasama.com",
     "phone": "07454008197",
     "url": "https://github.com/AlexStillAlex",
-    "summary": "Mathematician with interests in biological dynamical systems. I have equal enthusiasm for the pub and playing the cello.",
+    "summary": "Mathematician with interests in biological dynamical systems. I have equal enthusiasm for the pub and playing the cello. I am doing a PhD with the Rosalind Franklin Institute in Oxford.",
     "location": {
       "address": "",
       "postalCode": "NW1 0HB",
@@ -27,7 +27,7 @@
       "name": "NEST",
       "position": "Data Engineer",
       "url": "https://example.com",
-      "startDate": "2024-10-01",
+      "startDate": "2024-10",
       "summary": "Data Engineer at NEST, responsible for setting up the NEST Data Platform, relying on a Python/SQL/Spark tech stack. This catered for 14 million members of the UK population and £44 billion in assets.",
       "highlights": ["Data", "SQL", "Python"]
     }
@@ -47,8 +47,8 @@
       "url": "https://www.durham.ac.uk/departments/academic/mathematical-sciences/",
       "area": "Dynamical Systems and Mathematical Biology",
       "studyType": "Masters",
-      "startDate": "2019-10-01",
-      "endDate": "2023-11-01",
+      "startDate": "2019-10",
+      "endDate": "2023-11",
       "score": "First Class",
       "Dissertation": ["Numerical Continuation of Reaction-Diffusion Systems"]
     }
@@ -56,7 +56,7 @@
   "awards": [
     {
       "title": "Durham Centre for Academic Development Grant",
-      "date": "2022-08-01",
+      "date": "2022-08",
       "awarder": "Durham University",
       "value": "£5000",
       "summary": "Awarded a grant titled 'Accessible interactive visualisations in mathematical biology' to develop a prototype reaction-diffusion simulator using parallel computation methods."
