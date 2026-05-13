@@ -6,7 +6,7 @@ subtitle: <a href='https://youtu.be/NsqXCO0ADwM?feature=shared&t=1241'>A song I 
 
 profile:
   align: right
-  image: me_cello_2026.jpeg
+  image: me_cello_2026.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
 
